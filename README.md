@@ -4,6 +4,8 @@
 
 Scroll Scape is a web-based project that showcases smooth horizontal scrolling effects with little animations using HTML, CSS, and JavaScript.
 
+![scroll-scape](https://github.com/user-attachments/assets/ad132d2b-c772-402e-8be2-8be2d39b6f62)
+
 ## Features
 
 - Smooth scrolling animations
